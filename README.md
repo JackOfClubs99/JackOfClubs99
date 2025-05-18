@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @JackOfClubs99
 - 👀 I’m interested in Security
-- 🌱 I’m currently learning SIEM building and Microsoft defense
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SIEM building and Microsoft defence
 - 😄 Pronouns: Christ
-- ⚡ Fun fact: ...
 
 <!---
 JackOfClubs99/JackOfClubs99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
